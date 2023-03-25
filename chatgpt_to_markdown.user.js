@@ -31,10 +31,10 @@ function logIsByGPT(logElement) {
 // logElementから発言者の名前を返す
 function getUserName(logElement) {
   if(logIsByGPT(logElement)) {
-    return 'User';
+    return 'ChatGPT';
   }
   else {
-    return 'ChatGPT';
+    return 'User';
   }
 }
 
