@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name               ChatGPT_to_Markdown
 // @namespace          https://yuma14.net/
-// @version            1.0.0
+// @version            1.0.1
 // @author             yuma14
 // @description        Extract chat logs from ChatGPT webpage in Markdown format into clipboard.
 // @description:ja-jp  ChatGPTのウェブページから会話履歴をマークダウン形式で抽出し、クリップボードへ書き出します
